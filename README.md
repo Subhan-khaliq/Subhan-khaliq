@@ -42,11 +42,6 @@ Welcome to my GitHub! I love building **web applications, data pipelines, and cl
 
 ---
 
-## 📈 GitHub Stats
-![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subhan-khaliq&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhankhaliq)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/KhaliqSubhan)
